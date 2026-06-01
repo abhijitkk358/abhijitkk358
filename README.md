@@ -41,8 +41,9 @@
 
 ###  Featured Repositories
 
+https://github.com/abhijitkk358/Programming-Paradigms-and-pragmatics-CS202-
 
-*   ** [Hardwired Control Unit for Mini-Processor](https://github.com/abhijitkk358/Hardwired-control-unit-for-Mini-Processor)** – Hardware control unit architectural design implemented using Verilog HDL.
-*   ** [CS201 Counting Bloom Filter](https://github.com/abhijitkk358/CS201-Counting-Bloom-Filter)** – High-performance probabilistic data structure engineered efficiently in C++.
+*   ** [Hardwired Control Unit for Mini-Processor](https://github.com/abhijitkk358/Hardwired-control-unit-for-Mini-Processor)** 
+*   ** [CS201 Counting Bloom Filter](https://github.com/abhijitkk358/CS201-Counting-Bloom-Filter)** 
 
-
+*   ** [Programming-Paradigms-and-pragmatics-CS202](https://github.com/abhijitkk358/Programming-Paradigms-and-pragmatics-CS202-)** 
