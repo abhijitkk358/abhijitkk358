@@ -11,7 +11,7 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 
 
 | **Category** | **Details** |
@@ -21,7 +21,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Toolkit
+###  Tech Stack & Toolkit
 
 <p align="left">
   <!-- Languages -->
@@ -39,29 +39,29 @@
 
 ---
 
-### 📂 Featured Repositories
+###  Featured Repositories
 
 *From the highlights on my dashboard:*
 
-*   **⚡ [Hardwired Control Unit for Mini-Processor](https://github.com/abhijitkk358/Hardwired-control-unit-for-Mini-Processor)** – Hardware control unit architectural design implemented using Verilog HDL.
-*   **📊 [CS201 Counting Bloom Filter](https://github.com/abhijitkk358/CS201-Counting-Bloom-Filter)** – High-performance probabilistic data structure engineered efficiently in C++.
+*   ** [Hardwired Control Unit for Mini-Processor](https://github.com/abhijitkk358/Hardwired-control-unit-for-Mini-Processor)** – Hardware control unit architectural design implemented using Verilog HDL.
+*   ** [CS201 Counting Bloom Filter](https://github.com/abhijitkk358/CS201-Counting-Bloom-Filter)** – High-performance probabilistic data structure engineered efficiently in C++.
 
 
 ---
 
-### 📊 Git Metrics & Activity
+###  Git Metrics & Activity
 
 <p align="center">
+  <!-- Streak Counter (Working fine, kept as is) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhijitkk358&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijitkk358&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%"/>
+  
+  <!-- Top Languages (Switched to stable mirror) -->
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=abhijitkk358&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhijitkk358&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="80%"/>
+  <!-- GitHub Stats (Switched to stable mirror) -->
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=abhijitkk358&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="80%"/>
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhijitkk358&color=blueviolet&style=flat-square" alt="Profile Views" />
-</p>
