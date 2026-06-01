@@ -1,16 +1,67 @@
-## Hi there 👋
+<h1 align="center">👋 Hey there, I'm Abhijit Kamble</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Pre-Final+Year+@+IIT+Ropar;Computer+Science+Engineer;Competitive+Programmer;AI+%2F+ML+Enthusiast" alt="Typing SVG" />
+</p>
 
-<!--
-**abhijitkk358/abhijitkk358** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/abhijitkk358"><img src="https://img.shields.io/github/followers/abhijitkk358?label=Followers&style=social" alt="Followers"></a>
+  <img src="https://img.shields.io/badge/IIT%20Ropar-CSE%20'28-blue?style=flat-square" alt="IIT Ropar">
+  <img src="https://img.shields.io/badge/Focus-Systems%20%26%20Algorithms-orange?style=flat-square" alt="Focus">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+
+| **Category** | **Details** |
+| :--- | :--- |
+| 🎓 **Education** | Pre-Final Year B.Tech in Computer Science & Engineering at **IIT Ropar** |
+| 🛠️ **Current Focus** | Low-Level Optimization, System Programming, and Deep Learning |
+
+---
+
+### 🛠️ Tech Stack & Toolkit
+
+<p align="left">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <br/>
+  <!-- Tools & OS -->
+  <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+ 
+</p>
+
+---
+
+### 📂 Featured Repositories
+
+*From the highlights on my dashboard:*
+
+*   **⚡ [Hardwired Control Unit for Mini-Processor](https://github.com/abhijitkk358/Hardwired-control-unit-for-Mini-Processor)** – Hardware control unit architectural design implemented using Verilog HDL.
+*   **📊 [CS201 Counting Bloom Filter](https://github.com/abhijitkk358/CS201-Counting-Bloom-Filter)** – High-performance probabilistic data structure engineered efficiently in C++.
+
+
+---
+
+### 📊 Git Metrics & Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhijitkk358&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijitkk358&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhijitkk358&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="80%"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhijitkk358&color=blueviolet&style=flat-square" alt="Profile Views" />
+</p>
