@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey there, I'm Abhijit Kamble</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Pre-Final+Year+@+IIT+Ropar;Computer+Science+Engineer;Competitive+Programmer;AI+%2F+ML+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Pre-Final+Year+@+IIT+Ropar;Computer+Science+Engineer;Competitive+Programmer" alt="Typing SVG" />
 </p>
 
 <p align="center">
