@@ -42,6 +42,8 @@
 ###  Featured Repositories
 
 
-*   ** [CS201 Counting Bloom Filter](https://github.com/abhijitkk358/CS201-Counting-Bloom-Filter)** 
+*   ** [CS201 Counting Bloom Filter](https://github.com/abhijitkk358/CS201-Counting-Bloom-Filter)**
+*   
+*   ** [Memory-Cache-Simulator](https://github.com/abhijitkk358/Memory-Cache-Simulator)** 
 
 *   ** [Programming-Paradigms-and-pragmatics-CS202](https://github.com/abhijitkk358/Programming-Paradigms-and-pragmatics-CS202-)** 
