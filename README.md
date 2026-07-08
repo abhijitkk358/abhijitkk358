@@ -17,7 +17,6 @@
 | **Category** | **Details** |
 | :--- | :--- |
 | 🎓 **Education** | Pre-Final Year B.Tech in Computer Science & Engineering at **IIT Ropar** |
-| 🛠️ **Current Focus** | Low-Level Optimization, System Programming, and Deep Learning |
 
 ---
 
