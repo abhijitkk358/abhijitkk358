@@ -44,6 +44,6 @@
 
 *   ** [CS201 Counting Bloom Filter](https://github.com/abhijitkk358/CS201-Counting-Bloom-Filter)**
   
-*   ** [Memory-Cache-Simulator](https://github.com/abhijitkk358/Memory-Cache-Simulator)** 
+*   ** [Memory-Cache-Simulator-CS204](https://github.com/abhijitkk358/Memory-Cache-Simulator)** 
 
-*   ** [Programming-Paradigms-and-pragmatics-CS202](https://github.com/abhijitkk358/Programming-Paradigms-and-pragmatics-CS202-)** 
+*   ** [C-Code-Optimization-Pipeline-CS202](https://github.com/abhijitkk358/C-Code-Optimization-Pipeline)** 
